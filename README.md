@@ -1,7 +1,7 @@
 # Analysing-Credit-Risk-Peer-to-Peer-lending
 # Analysing-Credit-Risk-on-European-Peer-to-Peer-lending-Platform Project
 First of all we understand the Peer-to-to-lending platform and then understand the data file Bondora_raw.csv on which we have to perform the whole project.
-Understand the data, then perform data preprocessing then perform Exploratory Data Analysis and feature engineering the design a model using Logistic Regression and Random Forest Machine Learning models. Then work on pipeline.
+Understand the data, then perform data preprocessing then perform Exploratory Data Analysis and feature engineering the design a model using Logistic Regression and Random Forest Machine Learning models. Then work on pipeline. Also work on deployment of model on Heroku using Flask.
 
 # Data Understanding 
 Bondora_raw.csv data file contains all the data related to lending platform and we have to understand the data for Analysis credit risk that which parameters are useful for our project. In this dataset we have target variable Status and we find the status of lenders.
